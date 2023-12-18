@@ -1,0 +1,68 @@
+.materialformbox
+{
+	box-sizing: content-box;
+	margin-top: 10rem;
+	background-color: #FFF8F5;
+	border-radius: 1.625rem;
+	box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.30);
+	max-width: 50rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 615.2px;
+	padding-bottom: 2rem;
+	padding-top: 1rem;
+}
+
+.materialform
+{
+	padding: 3rem 3rem 3rem 3rem;
+	max-width: 38.5rem;
+	display: flex;
+	min-height: 50;
+}
+
+.formelement
+{
+	min-width: 248px;
+}
+
+.materialformtitle
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: 'rgba(0;0;0;0.87)';
+	font-size: 34px;
+	font-style: normal;
+	font-weight: bold;
+	margin-top: 71;
+	margin-bottom: 2rem;
+	letter-spacing: 0.25;
+	font-family: 'Roboto', sans-serif;
+}
+
+.materialformheader
+{
+	color: var(--text-primary, rgba(0, 0, 0, 0.87));
+	font-feature-settings: 'clig' off, 'liga' off;
+
+	/* typography/h5 */
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-style:normal;
+	font-weight: 549;
+	align-self: stretch;
+	display: flex;
+	margin-bottom: 1.99px;
+	padding-left: 0.90rem;
+	flex-direction: column;
+	align-items: flex-start;
+	align-self: stretch;
+}
+
+.formbutton
+{
+	color:'#FFFFFF';
+	background-color:darken(#b26800, 20%);
+}

@@ -1,0 +1,65 @@
+.user-cart-summary-card
+{
+	padding: 1rem;
+	background-color: #ECE0D9;
+	border-radius: 1.625rem;
+	box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.30);
+	height: 38rem;
+	max-width: 17rem;
+}
+.user-cart-summary-confirm-card
+{
+	height: 39.25rem;
+	background-color: #ECE0D9;
+	box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.30);
+	margin-top: 4rem; 
+	border-radius: 1.625rem;
+	padding: 1rem;
+}
+
+.cart-summary
+{
+	font-weight: bold;
+	margin: 0.5rem;
+}
+
+.containerOfKonteynir
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 90%;
+	height: 4rem;
+}
+
+.container-warning-box
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 10rem;
+	height: 4rem;
+}
+
+.adress-box
+{
+	background-color: #FFF8F5;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 90%;
+	height: 20rem;
+}
+
+.adresDegistirButton
+{
+	margin-top: 30.5vh;
+	margin-left: 11vh;
+
+}
+
+.summary-card-details
+{
+	min-width: 15rem;
+	height: 4.5rem;
+}

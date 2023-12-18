@@ -1,0 +1,18 @@
+.CustomListItem
+{
+	height: 3rem;
+	display: flex;
+	justify-content: space-between;
+}
+
+.CustomTextField
+{
+	width: 14rem;
+}
+
+.CustomButton
+{
+	width: 6em;
+	/* display: flex; */
+	/* justify-content: space-between; */
+}

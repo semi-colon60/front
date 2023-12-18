@@ -1,0 +1,51 @@
+.revieworderbox
+{
+	padding: 1.5rem;
+	margin-top: 8.7rem;
+	background-color: #FFF8F5;
+	border-radius: 1.625rem;
+	box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.30);
+	height: 39rem;
+	min-width: 70rem;
+}
+
+.reviewordertable
+{
+	border: 0;
+	height: 38.28rem;
+	min-width: 70rem;
+}
+
+.user-material-list-box
+{
+	padding: 1.5rem;
+	background-color: #FFF8F5;
+	border-radius: 1.625rem;
+	box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.30);
+	height: 35rem;
+	min-width: 50rem;
+}
+
+.user-cart-order-box
+{
+	padding: 1.5rem;
+	background-color: #FFF8F5;
+	border-radius: 1.625rem;
+	box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.30);
+	height: 35rem;
+	margin-top: 4rem; 
+	padding-top: 3rem;
+}
+
+.user-material-list-table
+{
+	border: 0;
+	height: 35.03rem;
+	min-width: 50rem;
+}
+
+.user-orders-list-table
+{
+	border: 0;
+	height: 35.1rem;
+}

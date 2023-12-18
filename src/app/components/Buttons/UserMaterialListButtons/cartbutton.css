@@ -1,0 +1,15 @@
+.go-to-cart-button
+{
+	border-radius: 0.75rem;
+	min-width: 15rem;
+	height: 3rem;
+	display: flex;
+	color: white;
+	text-transform: none;
+}
+
+.add-to-cart-button
+{
+	color: white;
+	font-weight: 400;
+}

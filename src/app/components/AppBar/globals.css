@@ -1,0 +1,82 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	min-width: 70rem;
+}
+
+.test{
+	position: sticky;
+	width: 100%;
+}
+
+.appbar
+{
+	height: 5rem;
+	align-items: center;
+	background-color: white;
+	position: absolute;
+	width: 83rem;
+	min-width: 100vw;
+	display: flex;
+	left: 0%;
+}
+
+.topbarinside
+{
+	height: 5rem;
+	width: 100%;
+}
+
+.navbargrid
+{
+	min-width: 70rem;
+	height: 5rem;
+}
+
+.navTabs
+{
+	padding-top: 0;
+	padding-bottom: 0;
+	height: 5rem;
+}
+
+.logoButton
+{
+	width: 8rem;
+	height: 8rem;
+	border-radius: 0;
+}
+
+.logoBox
+{
+	align-self: center;
+	width: 8rem;
+	height: 4rem;
+	overflow: hidden;
+}
+
+.myAccountBox
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 3rem;
+}
+
+.myAccountButton
+{
+	height: 2.5rem;
+	width: max-content;
+}
+
+.myAccountButton:hover
+{
+	background-color: #ffaa00;
+}
+
+.navbarrhs
+{
+	display: flex;
+	height: 5rem;	
+}
